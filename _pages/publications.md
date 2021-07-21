@@ -1,18 +1,17 @@
 ---
 layout: archive
-title: "Refereed Journal Publications"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<b>[Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets](https://www.sciencedirect.com/science/article/pii/S0925400519313632)</b> <br>
-<b>Dong-Chel Shin</b>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi*, <i>Sensors & Actuators: B. Chemical</i> (IF = 7.100)
+## **Refereed Journal Publications**
 
----
-layout: archive
-title: "International Conference Presentations"
-permalink: /publications/
-author_profile: true
----
+<b>Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</b> <br>
+<b>Dong-Chel Shin</b>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi* <br>
+<i>Sensors & Actuators: B. Chemical</i> (IF = 7.100, [Link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))
+
+## **International Conference Presentations**
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
