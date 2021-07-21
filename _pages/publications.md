@@ -4,20 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## **Refereed Journal Publications**
+## **Refereed Journal Publications**<br>
 
 <b>Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</b> <br>
-<u>Dong-Chel Shin</u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi* <br>
-<i>Sensors & Actuators: B. Chemical</i> (IF = 7.100, [Link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))
+<u><b>Dong-Chel Shin</u></b>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi* <br>
+<i>Sensors & Actuators: B. Chemical</i> (IF = 7.100, [link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))
 
-## **International Conference Presentations**
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## **International Conference Presentations**<br>
 
-{% include base_path %}
+<b>Centrifuge-based membrane emulsification toward high-throughput generation of monodisperse liposomes</b> <br>
+<u><b>Dong-Chel Shin</u></b>, Shotaro Yoshida, Yuya Morimoto, and Shoji Takeuchi* <br>
+<i>The 19th International Conference on Solid-State Sensors, Actuators and Microsystems (TRANSDUCERS2017)</i>, Kaohsiung, Taiwan, June 18-22, 2017 (oral, [link](https://ieeexplore.ieee.org/abstract/document/7994003/))
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
