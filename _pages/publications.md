@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## **Refereed Journal Publications**<br>
 
-<b>Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</b> <br>
+<p style="color:#011A7E";><b>Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</b></p> <br>
 <u><b>Dong-Chel Shin</b></u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi* <br>
 <i>Sensors & Actuators: B. Chemical</i> (IF = 7.100, [link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))
 
