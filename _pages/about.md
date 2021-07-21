@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-# Markdown generator
+# About Me
 * I am a researcher at KAIST
 * My current research interest;
 (1) Ultrafast optics
