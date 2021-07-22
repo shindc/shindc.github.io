@@ -50,7 +50,7 @@ redirect_from:
 
   The Korean Government and The Japanese Government																																 (Mar 2012 – Sep 2016)
 
-* ##### **Hatakeyama Award (Highest honor in department)**
+* **Hatakeyama Award (Highest honor in department)**
 
   The Japan Society of Mechanical Engineers (JSME), JAPAN																																					Mar 2017
 
