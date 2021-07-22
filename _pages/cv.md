@@ -12,7 +12,7 @@ redirect_from:
 ## Education
 ------
 ### Master of Science in Mechano-Informatics
-**The University of Tokyo, Tokyo, Japan** (Sept 2016 – Aug 2018)
+The University of Tokyo, Tokyo, Japan (Sept 2016 – Aug 2018)
 * Advisor: Professor Shoji Takeuchi
 * Thesis: Centrifuge-based Microfluidic Device for Pump-free Generation of Monodisperse Droplets
 * Total GPA: 3.90/4.0
@@ -21,7 +21,7 @@ redirect_from:
 <br>
 
 ### Bachelor of Science in Mechanical and Intelligent Systems Engineering
-**Tokyo Institute of Technology, Tokyo, Japan** (Apr 2013 – Sept 2016)
+Tokyo Institute of Technology, Tokyo, Japan (Apr 2013 – Sept 2016)
 * Advisor: Professor Shigeki Saito
 * Thesis: Shortening Detachment Time on Micro-manipulation of a Particle of High Insulation
 * Total GPA: 3.96/4.00
