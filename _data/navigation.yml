@@ -3,14 +3,11 @@ main:
   - title: "About"
     url: /cv/
     
-  - title: "Publications"
-    url: /publications/
-
   - title: "Research"
     url: /research/    
-
-  - title: "Honors & Awards"
-    url: /hna/    
+    
+  - title: "Publications"
+    url: /publications/
     
   - title: "Contact"
     url: /contact/
