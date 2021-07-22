@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-## ** 1. Refereed Journal Publications **<br>
+## 1. Refereed Journal Publications<br>
 
 <b><span style="color: #0D47A1">An ultrastable terahertz-frequency synthesizer via optical frequency division</span></b><br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim*. <i>in preparation</i>.
@@ -16,7 +16,7 @@ Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo K
 <u><b>Dong-Chel Shin</b></u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi*. <i><b>Sensors & Actuators: B. Chemical</b></i> (IF = 7.100).
 
 <br>
-## ** 2. International Conference Presentations **<br>
+## 2. International Conference Presentations<br>
 
 [<b>Continuous-wave terahertz generation via frequency comb stabilized to a high-finesse cavity</b>](https://koasas.kaist.ac.kr/handle/10203/279092)<br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Young-Jin Kim, and Seung-Woo Kim*. <i>International Symposium on Precision Engineering and Sustainable Manufacturing (<b>PRESM2020</b>)</i>, Online Symposium, Nov 15-18, 2020 (oral).<br>
