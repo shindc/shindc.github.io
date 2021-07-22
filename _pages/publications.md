@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 ## **Refereed Journal Publications**<br>
+<b>An ultrastable terahertz-frequency synthesizer via optical frequency division</b><br>
+<u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim*<br>
+<i>in preparation</i>
+
+<b>Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</b><br>
+Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim*, and Seung-Woo Kim*<br>
+<i>in preparation</i>
 
 [<b>Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</b>](https://www.sciencedirect.com/science/article/pii/S0925400519313632)<br>
 <u><b>Dong-Chel Shin</b></u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi* <br>
