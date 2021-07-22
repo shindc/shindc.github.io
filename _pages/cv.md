@@ -13,9 +13,9 @@ redirect_from:
 
 ------
 
-#### M.S. in Mechano-Informatics
+### M.S. in Mechano-Informatics
 
-##### The University of Tokyo, Tokyo, Japan 																																								Sept 2016 – Aug 2018
+#### The University of Tokyo, Tokyo, Japan (Sept 2016 – Aug 2018)
 
 - Advisor: Professor Shoji Takeuchi
 
@@ -25,9 +25,9 @@ redirect_from:
 
 
 
-#### B.S. in Mechanical and Intelligent Systems Engineering
+### B.S. in Mechanical and Intelligent Systems Engineering
 
-##### Tokyo Institute of Technology, Tokyo, Japan 																																					Apr 2013 – Sept 2016
+#### Tokyo Institute of Technology, Tokyo, Japan (Apr 2013 – Sept 2016)
 
 * Advisor: Professor Shigeki Saito
 * Thesis: Shortening Detachment Time on Micro-manipulation of a Particle of High Insulation
@@ -38,17 +38,17 @@ redirect_from:
 
 
 
-### Honors and Awards
+## Honors and Awards
 
 ------
 
 * **Kwanjeong Educational Foundation Scholarship** (USD 24,000 per year)
 
-  Kwanjeong Educational Foundation, KOREA																																						Sep 2018 – Sep 2016
+  Kwanjeong Educational Foundation, KOREA																																						(Sep 2018 – Sep 2016)
 
 * **Korea-Japan Joint Government Scholarship Program** (USD 13,000 per year), 
 
-  The Korean Government and The Japanese Government																																 Mar 2012 – Sep 2016
+  The Korean Government and The Japanese Government																																 (Mar 2012 – Sep 2016)
 
 * ##### **Hatakeyama Award (Highest honor in department)**
 
