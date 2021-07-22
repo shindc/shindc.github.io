@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 ## **Refereed Journal Publications**<br>
-<b><p style="color: #0D47A1">An ultrastable terahertz-frequency synthesizer via optical frequency division</p></b><br>
+<b><span style="color:blue">An ultrastable terahertz-frequency synthesizer via optical frequency division</span></b><br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim*. <i>in preparation</i>.
 
 <b><p style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</p></b><br>
