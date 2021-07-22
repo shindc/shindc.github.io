@@ -5,10 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 ## **Refereed Journal Publications**<br>
-<b>An ultrastable terahertz-frequency synthesizer via optical frequency division</b><br>
+<b><p style="color: #0D47A1">An ultrastable terahertz-frequency synthesizer via optical frequency division</p></b><br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim*. <i>in preparation</i>.
 
-<b>Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</b><br>
+<b><p style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</p></b><br>
 Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim*, and Seung-Woo Kim*. <i>in preparation</i>.
 
 [<b>Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</b>](https://www.sciencedirect.com/science/article/pii/S0925400519313632)<br>
@@ -36,5 +36,3 @@ Heesuk Jang, Byung Soo Kim, <u><b>Dong-Chel Shin</b></u>, Young-Jin Kim, and Seu
 
 [<b>Centrifuge-based membrane emulsification toward high-throughput generation of monodisperse liposomes</b>](https://ieeexplore.ieee.org/abstract/document/7994003/)<br>
 <u><b>Dong-Chel Shin</b></u>, Shotaro Yoshida, Yuya Morimoto, and Shoji Takeuchi*. <i>The 19th International Conference on Solid-State Sensors, Actuators and Microsystems (<b>TRANSDUCERS2017</b>)</i>, Kaohsiung, Taiwan, June 18-22, 2017 (oral).<br>
-
-<p style="color: #FF9F35">Career Karma</p>
