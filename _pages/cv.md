@@ -50,8 +50,7 @@ Tokyo Institute of Technology, Tokyo, Japan (Apr 2013 – Sept 2016)
 * **Outstanding Achievement Award**<br>
   Department of Mechanical and Intelligent Systems Engineering, Tokyo Tech, Japan. Sep 2015
 
-### Research Experience
-
+## Research Experience
 ------
 
 **To Be Updated**
