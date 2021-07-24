@@ -28,7 +28,7 @@ redirect_from:
 
 ## Education
 ------
-**Master of Science in Mechano-Informatics**
+**Master of Science in Mechano-Informatics** <br>
 The University of Tokyo, Tokyo, Japan (Sept 2016 – Aug 2018)
 * Advisor: Professor Shoji Takeuchi
 * Thesis: Centrifuge-based Microfluidic Device for Pump-free Generation of Monodisperse Droplets
@@ -36,7 +36,7 @@ The University of Tokyo, Tokyo, Japan (Sept 2016 – Aug 2018)
 * Kwanjeong Educational Foundation Overseas Scholarship 15th Recipient
 
 
-**Bachelor of Science in Mechanical and Intelligent Systems Engineering**
+**Bachelor of Science in Mechanical and Intelligent Systems Engineering** <br>
 Tokyo Institute of Technology, Tokyo, Japan (Apr 2013 – Sept 2016)
 * Advisor: Professor Shigeki Saito
 * Thesis: Shortening Detachment Time on Micro-manipulation of a Particle of High Insulation
