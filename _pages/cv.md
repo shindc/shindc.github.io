@@ -18,7 +18,6 @@ The University of Tokyo, Tokyo, Japan (Sept 2016 – Aug 2018)
 * Total GPA: 3.90/4.0
 * Kwanjeong Educational Foundation Overseas Scholarship 15th Recipient
 
-<br>
 
 ### Bachelor of Science in Mechanical and Intelligent Systems Engineering
 Tokyo Institute of Technology, Tokyo, Japan (Apr 2013 – Sept 2016)
