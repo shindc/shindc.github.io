@@ -13,7 +13,7 @@ redirect_from:
 
 * Previously, I graduated with the highest honors from [Tokyo Institute of Technology](https://www.titech.ac.jp/english) in 2016, and then received M.S. degree from [The University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) in 2018.<br>
 
-* I pursue trans-disciplinary research to create novel technologies that enable solving high-impact challenges and advances of human knowledge and understanding with strong backgrounds in microfluidics, ultrafast photonics, nanophotonics, and precise electrical measurements.
+* With strong backgrounds in microfluidics, ultrafast photonics, nanophotonics, and precise electrical measurements, I pursue trans-disciplinary research to create novel technologies that enable solving high-impact challenges and advances for human knowledge and understanding 
 
 * My current research interests include
   * Ultrafast photonics based on optical frequency comb
