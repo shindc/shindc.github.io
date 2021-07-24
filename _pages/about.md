@@ -1,12 +1,13 @@
 ---
-permalink: /
-title: ""
-excerpt: ""
+layout: archive
+title:
+permalink: /cv/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+redirect_from:
+  - /resume
 ---
+
+{% include base_path %}
 
 ## About Me
 ------
