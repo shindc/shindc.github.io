@@ -30,20 +30,22 @@ redirect_from:
 ------
 **Master of Science in Mechano-Informatics** <br>
 The University of Tokyo, Tokyo, Japan (Sept 2016 – Aug 2018)
+* <u>Kwanjeong Educational Foundation Overseas Scholarship 15th Recipient</u>
 * Advisor: Professor Shoji Takeuchi
 * Thesis: Centrifuge-based Microfluidic Device for Pump-free Generation of Monodisperse Droplets
 * Total GPA: 3.90/4.0
-* Kwanjeong Educational Foundation Overseas Scholarship 15th Recipient
+
 
 <br>
 
 **Bachelor of Science in Mechanical and Intelligent Systems Engineering** <br>
 Tokyo Institute of Technology, Tokyo, Japan (Apr 2013 – Sept 2016)
+* <u>Korea-Japan Joint Government Scholarship 13th Recipient</u>
 * Advisor: Professor Shigeki Saito
 * Thesis: Shortening Detachment Time on Micro-manipulation of a Particle of High Insulation
 * Total GPA: 3.96/4.00
 * <u>Graduation with Summa Cum Laude in 3.5 years</u>
-* Korea-Japan Joint Government Scholarship 13th Recipient
+
 
 <br>
 
