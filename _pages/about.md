@@ -39,7 +39,7 @@ The University of Tokyo, Tokyo, Japan (Sept 2016 – Aug 2018)
 <br>
 
 **Bachelor of Science in Mechanical and Intelligent Systems Engineering** <br>
-Tokyo Institute of Technology, Tokyo, Japan <div style="float:right;">Apr 2013 – Sept 2016</div>
+Tokyo Institute of Technology, Tokyo, Japan (Apr 2013 – Sept 2016)
 * <u>Korea-Japan Joint Government Scholarship 13th Recipient</u>
 * Advisor: Professor Shigeki Saito
 * Thesis: Shortening Detachment Time on Micro-manipulation of a Particle of High Insulation
