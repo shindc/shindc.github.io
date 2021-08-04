@@ -9,3 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+**Ultra-stable terahertz-frequency synthesizer**
+<p class="aligncenter">
+<img src="/images/thz synthesizer.png" alt="Ultra-stable terahertz-frequency synthesizer" style="height: 100px; width:100px;"/>
+</p>
+Stable terahertz-frequency sources are essential to advance high-precision terahertz applications, for example, molecular spectroscopy, terahertz radars, and 6G wireless communications. We propose an optical frequency comb-based scheme that permits terahertz-frequency synthesis with direct stabilization to an ultrastable high-finesse optical cavity. We verified that terahertz-frequencies across 0.10 – 1.10 THz can achieve 10-15 levels of the fractional frequency instability at 1 s averaging time. By photo-mixing two optical frequencies precisely selected via optical injection locking, we demonstrated an arbitrary frequency control in a programmable manner with a 15-digit precision over a 2-GHz span, which is expected to enhance the signal-to-noise ratio of terahertz radars, the resolving power of terahertz molecular spectroscopy, and the transmission capacity of 6G communications. Presented results in multiple first-author and co-authored conference papers (journal papers in preparation).
+
+**Centrifuge-based step emulsification device for monodisperse droplet generation**
