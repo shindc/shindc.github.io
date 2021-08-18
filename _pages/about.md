@@ -19,7 +19,7 @@ redirect_from:
 
 * My current research interests include
   * Ultrafast photonics based on optical frequency comb
-  * Ultra-stable optical/terahertz-frequency synthesizer
+  * Ultra-stable optical/terahertz/microwave-frequency synthesizer
   * Nanophotonics
   * Microfluidics
   * Machine learning
@@ -52,7 +52,7 @@ Tokyo Institute of Technology, Tokyo, Japan (Apr 2013 – Sept 2016)
 ## Honors and Awards
 ------
 * **Kwanjeong Educational Foundation Scholarship** (USD 24,000 per year)<br>
-  Kwanjeong Educational Foundation, KOREA. Sep 2018 – Sep 2016
+  Kwanjeong Educational Foundation, KOREA. Sep 2016 – Sep 2018
 
 * **Korea-Japan Joint Government Scholarship Program** (USD 13,000 per year)<br> 
   The Korean Government and The Japanese Government. Mar 2012 – Sep 2016
