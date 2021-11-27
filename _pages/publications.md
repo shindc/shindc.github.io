@@ -10,7 +10,7 @@ author_profile: true
 
 ------
 
-1. <b><span style="color: #0D47A1">An ultrastable terahertz-frequency synthesizer via optical frequency division</span></b><br>
+1. <b><span style="color: #0D47A1">Optical cavity-referenced terahertz synthesizer with 15-digit short-term stability</span></b><br>
    <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim*. <i>in preparation</i>.
 2. <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b><br>
    Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim*, and Seung-Woo Kim*. <i>in preparation</i>.
