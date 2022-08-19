@@ -10,10 +10,10 @@ author_profile: true
 
 ------
 
-1. <b><span style="color: #0D47A1">Optical cavity-referenced terahertz synthesizer with 15-digit short-term stability</span></b><br>
-   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim*. <i><b>Nature Photonics</b></i>, <i>under review</i>.<press enter>
+- <b><span style="color: #0D47A1">Optical cavity-referenced terahertz synthesizer with 15-digit short-term stability</span></b><br>
+   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim*. <i><b>Nature Photonics</b></i>, <i>under review</i>.
 - <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b><br>
-   Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim*, and Seung-Woo Kim*. <i>submitted</i>.<press enter>
+   Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim*, and Seung-Woo Kim*. <i>submitted</i>.
 - [<b>Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</b>](https://www.sciencedirect.com/science/article/pii/S0925400519313632)<br>
    <u><b>Dong-Chel Shin</b></u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi*. <i><b>Sensors & Actuators: B. Chemical</b></i> (IF = 7.100).
 
