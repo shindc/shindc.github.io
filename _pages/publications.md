@@ -6,19 +6,25 @@ author_profile: true
 
 ---
 
-## 1. Refereed Journal Publications
+## Refereed Journal Publications
 
 ------
 
 - <b><span style="color: #0D47A1">Optical cavity-referenced terahertz synthesizer with 15-digit short-term stability</span></b><br>
-   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim*. <i><b>Nature Photonics</b></i>, <i>under review</i>.
-- <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b><br>
-   Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim*, and Seung-Woo Kim*. <i>submitted</i>.
-- <b>Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</b><u><b>Dong-Chel Shin</b></u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi*. <i><b>Sensors & Actuators: B. Chemical</b></i>, 2019 ([link](https://www.sciencedirect.com/science/article/pii/S0925400519313632)).
+<u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim* 
+Nature Communications, <i>in revision</i>.
+
+- <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b>([link](https://www.nature.com/articles/s41377-022-00940-3))<br>
+Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim*, and Seung-Woo Kim*
+Light: Science & Applications, <b>11</b>, 253 (2022)
+
+- <b><span style="color: #0D47A1">Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</span></b>([Link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))<br>
+<u><b>Dong-Chel Shin</b></u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi*<br> 
+Sensors & Actuators: B. Chemical, <b>301</b>, 127164 (2019)
 
 <br>
 
-## 2. International Conference Presentations
+## International Conference Presentations
 
 ------
 
