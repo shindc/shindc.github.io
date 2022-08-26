@@ -28,11 +28,11 @@ Sensors & Actuators: B. Chemical, <b>301</b>, 127164 (2019)
 
 ------
 - <b><span style="color: #0D47A1">Terahertz frequency synthesizer referenced to an ultra-stable optical cavity</span></b><br>
-   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim*, and Seung-Woo Kim* <br>
+   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim&ast;, and Seung-Woo Kim&ast; <br>
    2022 Conference on Lasers and Electro-Optics (<b>CLEO</b>), San Jose, CA, USA, May 15-20, oral (2022)<br>
    
 - <b><span style="color: #0D47A1">Remote comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b><br>
-   Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Young-Jin Kim*, and Seung-Woo Kim* <br>
+   Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Young-Jin Kim&ast;, and Seung-Woo Kim&ast; <br>
    2022 Conference on Lasers and Electro-Optics (<b>CLEO</b>), San Jose, CA, USA, May 15-20, oral (2022)<br>
    
 - <b><span style="color: #0D47A1">Continuous-wave terahertz generation via frequency comb stabilized to a high-finesse cavity</span></b><br>
