@@ -11,11 +11,11 @@ author_profile: true
 ------
 
 - <b><span style="color: #0D47A1">Optical cavity-referenced terahertz synthesizer with 15-digit short-term stability</span></b><br>
-<u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim, and Seung-Woo Kim*; <br>
+<u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim, and Seung-Woo Kim* <br>
 Nature Communications, <i>in revision</i>.
 
 - <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b> ([link](https://www.nature.com/articles/s41377-022-00940-3))<br>
-Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim, and Seung-Woo Kim*; <br>
+Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim, and Seung-Woo Kim* <br>
 Light: Science & Applications, <b>11</b>, 253 (2022)
 
 - <b><span style="color: #0D47A1">Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</span></b> ([link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))<br>
