@@ -15,7 +15,7 @@ author_profile: true
 Nature Communications, <i>in revision</i>.
 
 - <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b> ([link](https://www.nature.com/articles/s41377-022-00940-3))<br>
-Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim, and Seung-Woo Kim* <br>
+Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim, and Seung-Woo Kim* <br>
 Light: Science & Applications, <b>11</b>, 253 (2022)
 
 - <b><span style="color: #0D47A1">Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</span></b> ([link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))<br>
@@ -32,7 +32,7 @@ Sensors & Actuators: B. Chemical, <b>301</b>, 127164 (2019)
    2022 Conference on Lasers and Electro-Optics (<b>CLEO</b>), San Jose, CA, USA, May 15-20, oral (2022)<br>
    
 - <b><span style="color: #0D47A1">Remote comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b><br>
-   Jaewon Yang, Dong-IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Young-Jin Kim, and Seung-Woo Kim* <br>
+   Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Young-Jin Kim, and Seung-Woo Kim* <br>
    2022 Conference on Lasers and Electro-Optics (<b>CLEO</b>), San Jose, CA, USA, May 15-20, oral (2022)<br>
    
 - <b><span style="color: #0D47A1">Continuous-wave terahertz generation via frequency comb stabilized to a high-finesse cavity</span></b><br>
@@ -45,7 +45,7 @@ Sensors & Actuators: B. Chemical, <b>301</b>, 127164 (2019)
 
 - <b><span style="color: #0D47A1">Comb-rooted generation of ultra-narrow multiple optical frequencies</span></b><br>
    Byung Soo Kim, Heesuk Jang, <u><b>Dong-Chel Shin</b></u>, Young-Jin Kim, and Seung-Woo Kim*<br>
-   The 8th International Conference of Asian Society for Precision Engineering and Nanotechnology (<b>ASPEN 2019</b>)</i>, Matsue, Japan, Nov 12-15, oral (2019)<br>
+   The 8th International Conference of Asian Society for Precision Engineering and Nanotechnology (<b>ASPEN 2019</b>), Matsue, Japan, Nov 12-15, oral (2019)<br>
 
 - <b><span style="color: #0D47A1">Comb-rooted synthesis of ultra-narrow multiple optical frequencies of few Hz linewidth</span></b><br>
    Heesuk Jang, Byung Soo Kim, <u><b>Dong-Chel Shin</b></u>, Young-Jin Kim, and Seung-Woo Kim*<br>
