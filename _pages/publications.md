@@ -39,7 +39,7 @@ Sensors & Actuators: B. Chemical, <b>301</b>, 127164 (2019)
    <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Young-Jin Kim, and Seung-Woo Kim*<br>
    International Symposium on Precision Engineering and Sustainable Manufacturing (<b>PRESM2020</b>), Online Symposium, Nov 15-18, oral (2020)<br>
 
-- <b><span style="color: #0D47A1">Frequency-comb-reference plasmonic phase spectroscopy for gas sensing measurement</span></b><br>
+- <b><span style="color: #0D47A1">Frequency-comb-referenced plasmonic phase spectroscopy for gas sensing measurement</span></b><br>
    Duy Anh Nguyen, Jaehyun Lee, Byung Soo Kim, <u><b>Dong-Chel Shin</b></u>, Seung-Woo Kim, Seung-Chul Kim, and Young-Jin Kim*<br>
    International Symposium on Precision Engineering and Sustainable Manufacturing (<b>PRESM2020</b>), Online Symposium, Nov 15-18, oral (2020)<br>
 
