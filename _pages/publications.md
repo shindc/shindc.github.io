@@ -11,7 +11,7 @@ author_profile: true
 ------
 
 - <b><span style="color: #0D47A1">Photonic comb-rooted synthesis of ultra-stable terahertz frequencies</span></b><br>
-<u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim, and Seung-Woo Kim* <br>
+<u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
 <span style="color: #C23C3C">Nature Communications</span>, <i>accepted</i>.
 
 - <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b> ([link](https://www.nature.com/articles/s41377-022-00940-3))<br>
