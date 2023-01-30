@@ -15,7 +15,7 @@ author_profile: true
 <span style="color: #C23C3C">Nature Communications</span>, <i>accepted</i>.
 
 - <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b> ([link](https://www.nature.com/articles/s41377-022-00940-3))<br>
-Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim, and Seung-Woo Kim* <br>
+Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
 <span style="color: #C23C3C">Light: Science & Applications</span>, <b>11</b>, 253 (2022)
 
 - <b><span style="color: #0D47A1">Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</span></b> ([link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))<br>
