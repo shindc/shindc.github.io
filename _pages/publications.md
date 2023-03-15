@@ -27,20 +27,32 @@ Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo K
 ## International Conference Presentations
 
 ------
+- <b><span style="color: #0D47A1">Coherent optical-to-terahertz down-conversion via photomixing of comb-rooted optical frequencies</span></b><br>
+   <u><b>Dong-Chel Shin</b></u>, Guseon Kang, Byung Soo Kim, Young-Jin Kim\*, Seung-Woo Kim\* <br>
+   2022 Conference on Lasers and Electro-Optics/Pacific Rim (<b>CLEO-PR</b>), Sapporo, Japan, July 31 August 5, oral (2022)<br>
+   
+- <b><span style="color: #0D47A1">Ultrasensitive gas refractive index measurement with plasmonic phase spectroscopy using frequency comb</span></b><br>
+   Duy-Anh Nguyen, Geon-Ho Lee, <u><b>Dong-Chel Shin</b></u>, Seung-Woo Kim\*, Young-Jin Kim\* <br>
+   2022 Conference on Lasers and Electro-Optics/Pacific Rim (<b>CLEO-PR</b>), Sapporo, Japan, July 31 August 5, oral (2022)<br>
+   
+- <b><span style="color: #0D47A1">Frequency comb-to-comb synchronization through atmospheric optical frequency transfer over a 1.3-km free-space</span></b><br>
+   Dong IL Lee, Jaewon Yang, <u><b>Dong-Chel Shin</b></u>, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
+   2022 Conference on Lasers and Electro-Optics/Pacific Rim (<b>CLEO-PR</b>), Sapporo, Japan, July 31 August 5, oral (2022)<br>
+   
 - <b><span style="color: #0D47A1">Terahertz frequency synthesizer referenced to an ultra-stable optical cavity</span></b><br>
-   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim, and Seung-Woo Kim*; <br>
+   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
    2022 Conference on Lasers and Electro-Optics (<b>CLEO</b>), San Jose, CA, USA, May 15-20, oral (2022)<br>
    
 - <b><span style="color: #0D47A1">Remote comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b><br>
-   Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Young-Jin Kim, and Seung-Woo Kim* <br>
+   Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
    2022 Conference on Lasers and Electro-Optics (<b>CLEO</b>), San Jose, CA, USA, May 15-20, oral (2022)<br>
    
 - <b><span style="color: #0D47A1">Continuous-wave terahertz generation via frequency comb stabilized to a high-finesse cavity</span></b><br>
-   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Young-Jin Kim, and Seung-Woo Kim*<br>
+   <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Young-Jin Kim\*, and Seung-Woo Kim\*<br>
    International Symposium on Precision Engineering and Sustainable Manufacturing (<b>PRESM2020</b>), Online Symposium, Nov 15-18, oral (2020)<br>
 
 - <b><span style="color: #0D47A1">Frequency-comb-referenced plasmonic phase spectroscopy for gas sensing measurement</span></b><br>
-   Duy Anh Nguyen, Jaehyun Lee, Byung Soo Kim, <u><b>Dong-Chel Shin</b></u>, Seung-Woo Kim, Seung-Chul Kim, and Young-Jin Kim*<br>
+   Duy Anh Nguyen, Jaehyun Lee, Byung Soo Kim, <u><b>Dong-Chel Shin</b></u>, Seung-Woo Kim, Seung-Chul Kim\*, and Young-Jin Kim\*<br>
    International Symposium on Precision Engineering and Sustainable Manufacturing (<b>PRESM2020</b>), Online Symposium, Nov 15-18, oral (2020)<br>
 
 - <b><span style="color: #0D47A1">Comb-rooted generation of ultra-narrow multiple optical frequencies</span></b><br>
