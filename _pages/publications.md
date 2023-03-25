@@ -12,15 +12,15 @@ author_profile: true
 
 - <b><span style="color: #0D47A1">Photonic comb-rooted synthesis of ultra-stable terahertz frequencies</span></b> ([link](https://www.nature.com/articles/s41467-023-36507-y))<br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
-<span style="color: #C23C3C"><i>Nature Communications</i></span>, <b>14</b>, 1, 790 (2023)
+<i><b>Nature Communications</b></i></span>, <b>14</b>, 1, 790 (2023)
 
 - <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b> ([link](https://www.nature.com/articles/s41377-022-00940-3))<br>
 Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
-<span style="color: #C23C3C"><i>Light: Science & Applications</i></span>, <b>11</b>, 253 (2022)
+<i><b>Light: Science & Applications</b></i></span>, <b>11</b>, 253 (2022)
 
 - <b><span style="color: #0D47A1">Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</span></b> ([link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))<br>
 <u><b>Dong-Chel Shin</b></u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi* <br> 
-<span style="color: #C23C3C"><i>Sensors & Actuators: B. Chemical</i></span>, <b>301</b>, 127164 (2019)
+<i><b>Sensors & Actuators: B. Chemical</b></i></span>, <b>301</b>, 127164 (2019)
 
 <br>
 
