@@ -3,7 +3,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-##Journal Publications
+## Journal Publications
 ---
 - <b><span style="color: #0D47A1">Photonic comb-rooted synthesis of ultra-stable terahertz frequencies</span></b> ([link](https://www.nature.com/articles/s41467-023-36507-y))<br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
@@ -19,7 +19,7 @@ Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo K
 
 <br>
 
-##International Conference Presentations
+## International Conference Presentations
 ---
 - <b><span style="color: #0D47A1">Coherent optical-to-terahertz down-conversion via photomixing of comb-rooted optical frequencies</span></b><br>
    <u><b>Dong-Chel Shin</b></u>, Guseon Kang, Byung Soo Kim, Young-Jin Kim\*, Seung-Woo Kim\* <br>
