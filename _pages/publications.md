@@ -7,7 +7,7 @@ author_profile: true
 
 ## Refereed Journal Publications
 
-------
+--
 
 - <b><span style="color: #0D47A1">Photonic comb-rooted synthesis of ultra-stable terahertz frequencies</span></b> ([link](https://www.nature.com/articles/s41467-023-36507-y))<br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
