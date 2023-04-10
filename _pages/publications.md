@@ -3,7 +3,8 @@ permalink: /publications/
 author_profile: true
 ---
      
-<h2>Journal Publications</h2>
+<h2>Journal Publications</h2><br>
+
 - <b><span style="color: #0D47A1">Photonic comb-rooted synthesis of ultra-stable terahertz frequencies</span></b> ([link](https://www.nature.com/articles/s41467-023-36507-y))<br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
 <i><span style="color: #c94949">Nature Communications</span></i>, <b>14</b>, 1, 790 (2023)
@@ -18,7 +19,7 @@ Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo K
 
 <br>
 
-<h2>International Conference Presentations</h2>
+<h2>International Conference Presentations</h2><br>
 - <b><span style="color: #0D47A1">Coherent optical-to-terahertz down-conversion via photomixing of comb-rooted optical frequencies</span></b><br>
    <u><b>Dong-Chel Shin</b></u>, Guseon Kang, Byung Soo Kim, Young-Jin Kim\*, Seung-Woo Kim\* <br>
    2022 Conference on Lasers and Electro-Optics/Pacific Rim (<b>CLEO-PR</b>), Sapporo, Japan, July 31 August 5, oral (2022)<br>
@@ -66,7 +67,4 @@ Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo K
 - <b><span style="color: #0D47A1">Centrifuge-based membrane emulsification toward high-throughput generation of monodisperse liposomes</span></b><br>
    <u><b>Dong-Chel Shin</b></u>, Shotaro Yoshida, Yuya Morimoto, and Shoji Takeuchi*<br>
    The 19th International Conference on Solid-State Sensors, Actuators and Microsystems (<b>TRANSDUCERS2017</b>), Kaohsiung, Taiwan, June 18-22, oral (2017)<br>
-     
-     </body>
-</html>
 
