@@ -1,9 +1,7 @@
 ---
 permalink: /publications/
-title: "Publications"
 author_profile: true
----
-     
+---  
 <h2>Journal Publications</h2>
 
 - <b><span style="color: #0D47A1">Photonic comb-rooted synthesis of ultra-stable terahertz frequencies</span></b> ([link](https://www.nature.com/articles/s41467-023-36507-y))<br>
