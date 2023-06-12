@@ -4,17 +4,17 @@ author_profile: true
 ---  
 <h2>Journal Publications</h2>
 
-- <b><span style="color: #0D47A1">Photonic comb-rooted synthesis of ultra-stable terahertz frequencies</span></b> ([link](https://www.nature.com/articles/s41467-023-36507-y))<br>
+- <b><span style="color: #0D47A1">Photonic comb-rooted synthesis of ultra-stable terahertz frequencies</span></b><br>
 <u><b>Dong-Chel Shin</b></u>, Byung Soo Kim, Heesuk Jang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
-<i>Nature Communications</i>, <b>14</b>, 1, 790 (2023)
+<i>Nature Communications</i>, <b>14</b>, 1, 790 (2023) [[link](https://www.nature.com/articles/s41467-023-36507-y)]
 
-- <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b> ([link](https://www.nature.com/articles/s41377-022-00940-3))<br>
+- <b><span style="color: #0D47A1">Frequency comb-to-comb stabilization over a 1.3-km free-space atmospheric optical link</span></b><br>
 Jaewon Yang, Dong IL Lee, <u><b>Dong-Chel Shin</b></u>, Jaehyun Lee, Byung Soo Kim, Hyun Jay Kang, Young-Jin Kim\*, and Seung-Woo Kim\* <br>
-<i>Light: Science & Applications</i>, <b>11</b>, 253 (2022)
+<i>Light: Science & Applications</i>, <b>11</b>, 253 (2022) [[link](https://www.nature.com/articles/s41377-022-00940-3))]
 
-- <b><span style="color: #0D47A1">Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</span></b> ([link](https://www.sciencedirect.com/science/article/pii/S0925400519313632))<br>
+- <b><span style="color: #0D47A1">Centrifuge-based step emulsification device for simple and fast generation of monodisperse picoliter droplets</span></b><br>
 <u><b>Dong-Chel Shin</b></u>, Yuya Morimoto, Jun Sawayama, Shigenori Miura, and Shoji Takeuchi* <br> 
-<i>Sensors & Actuators: B. Chemical</i>, <b>301</b>, 127164 (2019)
+<i>Sensors & Actuators: B. Chemical</i>, <b>301</b>, 127164 (2019) [[link](https://www.sciencedirect.com/science/article/pii/S0925400519313632)]
 
 <br>
 
